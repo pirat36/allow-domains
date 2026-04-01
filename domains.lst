@@ -1,16 +1,5 @@
+nftset=/soundcloud.cloud/4#inet#fw4#vpn_domains
 nftset=/soundcloud.com/4#inet#fw4#vpn_domains
-nftset=/www.soundcloud.com/4#inet#fw4#vpn_domains
-nftset=/api.soundcloud.com/4#inet#fw4#vpn_domains
-nftset=/api-v2.soundcloud.com/4#inet#fw4#vpn_domains
-nftset=/sndcdn.com/4#inet#fw4#vpn_domains
-nftset=/a-v2.sndcdn.com/4#inet#fw4#vpn_domains
-nftset=/cf-hls-media.sndcdn.com/4#inet#fw4#vpn_domains
-nftset=/i1.sndcdn.com/4#inet#fw4#vpn_domains
-nftset=/wis.sndcdn.com/4#inet#fw4#vpn_domains
-nftset=/media-streaming.soundcloud.cloud/4#inet#fw4#vpn_domains
-nftset=/playback.media-streaming.soundcloud.cloud/4#inet#fw4#vpn_domains
-nftset=/assets.web.soundcloud.cloud/4#inet#fw4#vpn_domains
-nftset=/eventlogger.soundcloud.com/4#inet#fw4#vpn_domains
 nftset=/bunkr.cr/4#inet#fw4#vpn_domains
 nftset=/playground.vrl.dev/4#inet#fw4#vpn_domains
 nftset=/api.telegram.org/4#inet#fw4#vpn_domains
